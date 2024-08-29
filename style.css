@@ -1,0 +1,54 @@
+.travel_viajes_maindiv
+{
+    border: 1px solid  lightgray;
+}
+
+.travel_viajes_maindiv img
+{
+    width: 100%;
+}
+
+
+.travel_viajes_maindiv h5
+{
+    margin: 20px;
+}
+
+.sport_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px; 
+}
+
+.movie_head i
+{
+    float: right;
+}
+
+.peliculas-text span
+{
+    color: orange;
+}
+
+.book
+{
+    margin-bottom: 20px;
+}
+
+#contactos iframe
+{
+    width: 100%;
+}
+
+
+
